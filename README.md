@@ -1,11 +1,13 @@
 # ghost.pub
 Jen's Ghost Theme Development Space
 
-Everything in here is based on the works and creations of others which I'm only:
+Everything in here is based on the works and creations of others which for my own purposes I am only:
 
 updating
 
 modifying
+
+improving
 
 remodeling
 
